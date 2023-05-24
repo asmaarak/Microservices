@@ -20,6 +20,7 @@ Description: Develop a weather forecast application that provides users with cur
    
    GraphQL:
         👍Benefits:
+        
                   Efficient Queries: GraphQL allows clients to precisely request the data they need in a single query, avoiding data and request overhead.
                   Flexibility: GraphQL clients can request specific data using a flexible syntax and nested queries.
                   Dynamic Documentation: GraphQL provides automatic, real-time schema documentation, making it easier for clients to understand available features.
