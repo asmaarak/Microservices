@@ -1,4 +1,4 @@
-# Microservices
+# Microservices 👨🏻‍💻
 
 GENERAL IDEA: Weather Forecast Application
 
@@ -16,9 +16,10 @@ Description: Develop a weather forecast application that provides users with cur
 
                   Data Overfetching: REST clients may retrieve redundant or unnecessary data since responses are pre-defined by the servers.
                   Request Overhead: REST clients may need to perform multiple requests to fetch complex or nested data.
+   
+   
    GraphQL:
         👍Benefits:
-
                   Efficient Queries: GraphQL allows clients to precisely request the data they need in a single query, avoiding data and request overhead.
                   Flexibility: GraphQL clients can request specific data using a flexible syntax and nested queries.
                   Dynamic Documentation: GraphQL provides automatic, real-time schema documentation, making it easier for clients to understand available features.
